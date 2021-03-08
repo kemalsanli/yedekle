@@ -1,0 +1,10 @@
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\bin\Release\Yedekle.exe.config
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\bin\Release\Yedekle.exe
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\bin\Release\Yedekle.pdb
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\obj\Release\Yedekle.csprojAssemblyReference.cache
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\obj\Release\Yedekle.Yedekle.resources
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\obj\Release\Yedekle.Properties.Resources.resources
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\obj\Release\Yedekle.csproj.GenerateResource.cache
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\obj\Release\Yedekle.csproj.CoreCompileInputs.cache
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\obj\Release\Yedekle.exe
+C:\Users\KEMAL SANLI\source\repos\Yedekle\Yedekle\obj\Release\Yedekle.pdb
