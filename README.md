@@ -1,10 +1,10 @@
- Turkish | [English](https://github.com/kemalsanli/yedekle/README-EN.md)
+ Turkish | [English](https://github.com/kemalsanli/yedekle/blob/main/README-EN.md)
+ 
 
  # yedekle
 
 Git'in kullanılmadığı durumlarda sıfır konfigürasyonla yedekler almanıza yardımcı olabilecek bir Windows uygulaması.
-
-
+[Buradan İndirilebilir.](https://github.com/kemalsanli/yedekle/releases/download/Windows/Yedekle.exe)
 
 ## Açıklama
 
@@ -33,11 +33,11 @@ Henüz herhangi bir sorunla karşılaşmadık.
 
 Genel kullanım için yedekle uygulamasını yedeğini almak istediğiniz klasörün içerisine sürükleyin ve çalıştırın.
 
-![Kullanıcı Arayüzü 1](https://github.com/kemalsanli/yedekle/blob/main/image/yedekle.png?raw=true)
+![Kullanıcı Arayüzü 1](https://github.com/kemalsanli/yedekle/blob/main/images/yedekle.png?raw=true)
 
 "Yedekle" tuşuna basıldığında klasör içerisinde oluşturduğu Yedekler isimli dosya içerisine yeni bir klasör oluşturur, zaman damgası ve revizyon numarası ile klasör içeriğini kopyalar. 
 
-![Klasör](https://github.com/kemalsanli/yedekle/blob/main/image/folder.png?raw=true)
+![Klasör](https://github.com/kemalsanli/yedekle/blob/main/images/folder.png?raw=true)
 
 "R" tuşu "Rollback" anlamına gelmektedir, son revizyondaki değişiklikleri klasör içeriğinin üzerine yazar.
 
