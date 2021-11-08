@@ -1,5 +1,8 @@
 [Turkish](https://github.com/kemalsanli/yedekle/blob/main/README.md) | English
 
+ [![Download](https://img.shields.io/github/downloads/kemalsanli/yedekle/total?)](https://github.com/kemalsanli/yedekle/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kemalsanli/yedekle?)](https://github.com/kemalsanli/yedekle/commits/main)
+[![GitHub](https://img.shields.io/github/license/kemalsanli/yedekle?)](https://github.com/kemalsanli/yedekle/blob/main/LICENSE)
  
  # yedekle
 
